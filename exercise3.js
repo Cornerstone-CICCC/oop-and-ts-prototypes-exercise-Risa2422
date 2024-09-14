@@ -18,11 +18,6 @@
 //   }
 // }
 
-
-//   console.log(`Hello, my name is ${name}.`);
-// };
-
-// Step 1: Define the constructor function
 function Person(firstName, lastName) {
   this.firstName = firstName;
   this.lastName = lastName;
